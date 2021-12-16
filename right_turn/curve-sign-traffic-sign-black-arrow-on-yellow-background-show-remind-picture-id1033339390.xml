@@ -1,0 +1,26 @@
+<annotation>
+	<folder>right_turn</folder>
+	<filename>curve-sign-traffic-sign-black-arrow-on-yellow-background-show-remind-picture-id1033339390.jpg</filename>
+	<path>E:\images\right_turn\curve-sign-traffic-sign-black-arrow-on-yellow-background-show-remind-picture-id1033339390.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right turn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>46</ymin>
+			<xmax>202</xmax>
+			<ymax>152</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>right_turn</folder>
+	<filename>istockphoto-472188450-612x612.jpg</filename>
+	<path>E:\images\right_turn\istockphoto-472188450-612x612.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>319</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right turn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>485</xmin>
+			<ymin>226</ymin>
+			<xmax>514</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>right turn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>235</xmin>
+			<ymin>189</ymin>
+			<xmax>244</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+</annotation>

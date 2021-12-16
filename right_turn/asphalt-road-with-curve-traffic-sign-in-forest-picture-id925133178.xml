@@ -1,0 +1,26 @@
+<annotation>
+	<folder>right_turn</folder>
+	<filename>asphalt-road-with-curve-traffic-sign-in-forest-picture-id925133178.jpg</filename>
+	<path>E:\images\right_turn\asphalt-road-with-curve-traffic-sign-in-forest-picture-id925133178.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right turn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>30</ymin>
+			<xmax>259</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+</annotation>
