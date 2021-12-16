@@ -1,0 +1,38 @@
+<annotation>
+	<folder>truck</folder>
+	<filename>Indian Truck On Road Images_ Stock... (1).jpg</filename>
+	<path>E:\images\truck\Indian Truck On Road Images_ Stock... (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>260</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>36</ymin>
+			<xmax>220</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>100</ymin>
+			<xmax>260</xmax>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>truck</folder>
+	<filename>Tips for driving at night in India.jpg</filename>
+	<path>E:\images\truck\Tips for driving at night in India.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>590</width>
+		<height>377</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>78</ymin>
+			<xmax>342</xmax>
+			<ymax>309</ymax>
+		</bndbox>
+	</object>
+</annotation>

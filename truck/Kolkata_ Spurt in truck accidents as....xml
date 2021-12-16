@@ -1,0 +1,50 @@
+<annotation>
+	<folder>truck</folder>
+	<filename>Kolkata_ Spurt in truck accidents as....jpg</filename>
+	<path>E:\images\truck\Kolkata_ Spurt in truck accidents as....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>33</ymin>
+			<xmax>399</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>114</ymin>
+			<xmax>145</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>145</ymin>
+			<xmax>100</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+</annotation>

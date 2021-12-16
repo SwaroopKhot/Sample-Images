@@ -1,0 +1,26 @@
+<annotation>
+	<folder>truck</folder>
+	<filename>Welcome to Best India Road Transport....jpg</filename>
+	<path>E:\images\truck\Welcome to Best India Road Transport....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1040</width>
+		<height>780</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>48</ymin>
+			<xmax>986</xmax>
+			<ymax>780</ymax>
+		</bndbox>
+	</object>
+</annotation>

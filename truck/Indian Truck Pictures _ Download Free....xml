@@ -1,0 +1,26 @@
+<annotation>
+	<folder>truck</folder>
+	<filename>Indian Truck Pictures _ Download Free....jpg</filename>
+	<path>E:\images\truck\Indian Truck Pictures _ Download Free....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3329</width>
+		<height>4993</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>889</xmin>
+			<ymin>2580</ymin>
+			<xmax>3066</xmax>
+			<ymax>4824</ymax>
+		</bndbox>
+	</object>
+</annotation>
