@@ -1,0 +1,38 @@
+<annotation>
+	<folder>caution</folder>
+	<filename>Work in progress road sign stock image....jpg</filename>
+	<path>E:\images\caution\Work in progress road sign stock image....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>601</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>caution</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>225</ymin>
+			<xmax>427</xmax>
+			<ymax>420</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>218</xmin>
+			<ymin>67</ymin>
+			<xmax>380</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+</annotation>

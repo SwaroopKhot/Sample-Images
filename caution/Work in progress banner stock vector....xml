@@ -1,0 +1,26 @@
+<annotation>
+	<folder>caution</folder>
+	<filename>Work in progress banner stock vector....jpg</filename>
+	<path>E:\images\caution\Work in progress banner stock vector....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1227</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>caution</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>243</xmin>
+			<ymin>317</ymin>
+			<xmax>893</xmax>
+			<ymax>988</ymax>
+		</bndbox>
+	</object>
+</annotation>
