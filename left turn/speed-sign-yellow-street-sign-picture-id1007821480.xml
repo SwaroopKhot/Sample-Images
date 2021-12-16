@@ -1,0 +1,26 @@
+<annotation>
+	<folder>left_turn</folder>
+	<filename>speed-sign-yellow-street-sign-picture-id1007821480.jpg</filename>
+	<path>E:\images\left_turn\speed-sign-yellow-street-sign-picture-id1007821480.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>459</width>
+		<height>612</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left turn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>193</ymin>
+			<xmax>268</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>

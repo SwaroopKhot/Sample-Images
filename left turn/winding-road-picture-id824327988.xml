@@ -1,0 +1,26 @@
+<annotation>
+	<folder>left_turn</folder>
+	<filename>winding-road-picture-id824327988.jpg</filename>
+	<path>E:\images\left_turn\winding-road-picture-id824327988.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left turn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>189</ymin>
+			<xmax>344</xmax>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+</annotation>
