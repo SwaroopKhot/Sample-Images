@@ -1,0 +1,26 @@
+<annotation>
+	<folder>car</folder>
+	<filename>Car Top View Png - Free Car Top View....png</filename>
+	<path>E:\images\car\Car Top View Png - Free Car Top View....png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>860</width>
+		<height>728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>140</ymin>
+			<xmax>469</xmax>
+			<ymax>692</ymax>
+		</bndbox>
+	</object>
+</annotation>

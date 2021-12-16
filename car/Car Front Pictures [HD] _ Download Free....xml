@@ -1,0 +1,26 @@
+<annotation>
+	<folder>car</folder>
+	<filename>Car Front Pictures [HD] _ Download Free....jpg</filename>
+	<path>E:\images\car\Car Front Pictures [HD] _ Download Free....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>526</width>
+		<height>327</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>76</ymin>
+			<xmax>439</xmax>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>car</folder>
+	<filename>Fiat_s India strategy revealed - Page....jpg</filename>
+	<path>E:\images\car\Fiat_s India strategy revealed - Page....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>803</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>564</xmin>
+			<ymin>212</ymin>
+			<xmax>703</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+</annotation>

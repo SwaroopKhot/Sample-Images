@@ -1,0 +1,50 @@
+<annotation>
+	<folder>car</folder>
+	<filename>Cars On Road Pictures _ Download Free....jpg</filename>
+	<path>E:\images\car\Cars On Road Pictures _ Download Free....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4752</width>
+		<height>3256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1298</xmin>
+			<ymin>1414</ymin>
+			<xmax>3267</xmax>
+			<ymax>2293</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2712</xmin>
+			<ymin>1290</ymin>
+			<xmax>3740</xmax>
+			<ymax>1924</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4077</xmin>
+			<ymin>1279</ymin>
+			<xmax>4740</xmax>
+			<ymax>1786</ymax>
+		</bndbox>
+	</object>
+</annotation>
