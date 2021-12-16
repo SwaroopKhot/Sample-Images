@@ -1,0 +1,38 @@
+<annotation>
+	<folder>pedestrian crossing sign</folder>
+	<filename>gettyimages-957397386-612x612.jpg</filename>
+	<path>E:\images\pedestrian crossing sign\gettyimages-957397386-612x612.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>23</ymin>
+			<xmax>303</xmax>
+			<ymax>121</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>270</xmin>
+			<ymin>182</ymin>
+			<xmax>294</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+</annotation>

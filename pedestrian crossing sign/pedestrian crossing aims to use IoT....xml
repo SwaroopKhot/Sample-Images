@@ -1,0 +1,38 @@
+<annotation>
+	<folder>pedestrian crossing sign</folder>
+	<filename>pedestrian crossing aims to use IoT....jpg</filename>
+	<path>E:\images\pedestrian crossing sign\pedestrian crossing aims to use IoT....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>744</xmin>
+			<ymin>268</ymin>
+			<xmax>869</xmax>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>291</xmin>
+			<ymin>167</ymin>
+			<xmax>356</xmax>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+</annotation>

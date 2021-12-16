@@ -1,0 +1,38 @@
+<annotation>
+	<folder>pedestrian crossing sign</folder>
+	<filename>istockphoto-948664236-612x612.jpg</filename>
+	<path>E:\images\pedestrian crossing sign\istockphoto-948664236-612x612.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>115</ymin>
+			<xmax>414</xmax>
+			<ymax>371</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>speed-breaker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>89</ymin>
+			<xmax>151</xmax>
+			<ymax>152</ymax>
+		</bndbox>
+	</object>
+</annotation>

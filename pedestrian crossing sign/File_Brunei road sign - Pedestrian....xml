@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pedestrian crossing sign</folder>
+	<filename>File_Brunei road sign - Pedestrian....png</filename>
+	<path>E:\images\pedestrian crossing sign\File_Brunei road sign - Pedestrian....png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2147</width>
+		<height>2147</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>371</ymin>
+			<xmax>1874</xmax>
+			<ymax>1894</ymax>
+		</bndbox>
+	</object>
+</annotation>
