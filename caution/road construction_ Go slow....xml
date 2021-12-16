@@ -1,0 +1,26 @@
+<annotation>
+	<folder>caution</folder>
+	<filename>road construction_ Go slow....jpg</filename>
+	<path>E:\images\caution\road construction_ Go slow....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1050</width>
+		<height>788</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>caution</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>464</xmin>
+			<ymin>284</ymin>
+			<xmax>632</xmax>
+			<ymax>470</ymax>
+		</bndbox>
+	</object>
+</annotation>

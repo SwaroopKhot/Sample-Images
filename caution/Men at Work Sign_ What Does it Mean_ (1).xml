@@ -1,0 +1,38 @@
+<annotation>
+	<folder>caution</folder>
+	<filename>Men at Work Sign_ What Does it Mean_ (1).jpg</filename>
+	<path>E:\images\caution\Men at Work Sign_ What Does it Mean_ (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>caution</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>267</xmin>
+			<ymin>390</ymin>
+			<xmax>599</xmax>
+			<ymax>660</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>254</xmin>
+			<ymin>441</ymin>
+			<xmax>282</xmax>
+			<ymax>475</ymax>
+		</bndbox>
+	</object>
+</annotation>

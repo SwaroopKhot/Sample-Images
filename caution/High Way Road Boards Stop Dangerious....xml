@@ -1,0 +1,26 @@
+<annotation>
+	<folder>caution</folder>
+	<filename>High Way Road Boards Stop Dangerious....jpg</filename>
+	<path>E:\images\caution\High Way Road Boards Stop Dangerious....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>caution</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>395</xmin>
+			<ymin>209</ymin>
+			<xmax>480</xmax>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+</annotation>

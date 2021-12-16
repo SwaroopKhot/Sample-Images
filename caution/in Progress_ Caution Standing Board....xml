@@ -1,0 +1,26 @@
+<annotation>
+	<folder>caution</folder>
+	<filename>in Progress_ Caution Standing Board....jpg</filename>
+	<path>E:\images\caution\in Progress_ Caution Standing Board....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>caution</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>419</xmin>
+			<ymin>415</ymin>
+			<xmax>630</xmax>
+			<ymax>611</ymax>
+		</bndbox>
+	</object>
+</annotation>

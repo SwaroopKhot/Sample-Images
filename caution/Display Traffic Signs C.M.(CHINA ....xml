@@ -1,0 +1,26 @@
+<annotation>
+	<folder>caution</folder>
+	<filename>Display Traffic Signs C.M.(CHINA ....webp</filename>
+	<path>E:\images\caution\Display Traffic Signs C.M.(CHINA ....webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>caution</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>59</ymin>
+			<xmax>617</xmax>
+			<ymax>467</ymax>
+		</bndbox>
+	</object>
+</annotation>
