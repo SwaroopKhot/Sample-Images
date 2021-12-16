@@ -1,0 +1,26 @@
+<annotation>
+	<folder>truck</folder>
+	<filename>Agra Highway delhi India....jpg</filename>
+	<path>E:\images\truck\Agra Highway delhi India....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1050</width>
+		<height>697</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>380</xmin>
+			<ymin>117</ymin>
+			<xmax>744</xmax>
+			<ymax>493</ymax>
+		</bndbox>
+	</object>
+</annotation>

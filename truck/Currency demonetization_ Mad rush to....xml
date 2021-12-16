@@ -1,0 +1,26 @@
+<annotation>
+	<folder>truck</folder>
+	<filename>Currency demonetization_ Mad rush to....jpg</filename>
+	<path>E:\images\truck\Currency demonetization_ Mad rush to....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>2</ymin>
+			<xmax>295</xmax>
+			<ymax>227</ymax>
+		</bndbox>
+	</object>
+</annotation>

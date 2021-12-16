@@ -1,0 +1,38 @@
+<annotation>
+	<folder>truck</folder>
+	<filename>Highway and Shared Chai Tea....jpg</filename>
+	<path>E:\images\truck\Highway and Shared Chai Tea....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>238</xmin>
+			<ymin>369</ymin>
+			<xmax>332</xmax>
+			<ymax>448</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>429</xmin>
+			<ymin>262</ymin>
+			<xmax>594</xmax>
+			<ymax>447</ymax>
+		</bndbox>
+	</object>
+</annotation>

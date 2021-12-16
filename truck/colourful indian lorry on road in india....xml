@@ -1,0 +1,26 @@
+<annotation>
+	<folder>truck</folder>
+	<filename>colourful indian lorry on road in india....jpg</filename>
+	<path>E:\images\truck\colourful indian lorry on road in india....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>354</width>
+		<height>519</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>81</ymin>
+			<xmax>270</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+</annotation>

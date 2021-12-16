@@ -1,0 +1,26 @@
+<annotation>
+	<folder>truck</folder>
+	<filename>504 Toll Plaza Photos - Free &amp; Royalty....jpg</filename>
+	<path>E:\images\truck\504 Toll Plaza Photos - Free &amp; Royalty....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>284</xmin>
+			<ymin>161</ymin>
+			<xmax>695</xmax>
+			<ymax>467</ymax>
+		</bndbox>
+	</object>
+</annotation>
