@@ -1,0 +1,38 @@
+<annotation>
+	<folder>car</folder>
+	<filename>1000_ Car On The Road Pictures... (1).jpg</filename>
+	<path>E:\images\car\1000_ Car On The Road Pictures... (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3579</width>
+		<height>5368</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1400</xmin>
+			<ymin>2719</ymin>
+			<xmax>2251</xmax>
+			<ymax>3516</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>left turn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1794</xmin>
+			<ymin>1767</ymin>
+			<xmax>1877</xmax>
+			<ymax>1818</ymax>
+		</bndbox>
+	</object>
+</annotation>

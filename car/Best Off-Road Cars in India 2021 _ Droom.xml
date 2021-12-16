@@ -1,0 +1,26 @@
+<annotation>
+	<folder>car</folder>
+	<filename>Best Off-Road Cars in India 2021 _ Droom.jpg</filename>
+	<path>E:\images\car\Best Off-Road Cars in India 2021 _ Droom.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>92</ymin>
+			<xmax>637</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

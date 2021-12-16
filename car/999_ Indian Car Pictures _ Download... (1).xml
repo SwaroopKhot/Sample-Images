@@ -1,0 +1,26 @@
+<annotation>
+	<folder>car</folder>
+	<filename>999_ Indian Car Pictures _ Download... (1).jpg</filename>
+	<path>E:\images\car\999_ Indian Car Pictures _ Download... (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>3375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1512</xmin>
+			<ymin>678</ymin>
+			<xmax>5388</xmax>
+			<ymax>2878</ymax>
+		</bndbox>
+	</object>
+</annotation>

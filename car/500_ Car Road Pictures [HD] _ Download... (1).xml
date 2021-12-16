@@ -1,0 +1,26 @@
+<annotation>
+	<folder>car</folder>
+	<filename>500_ Car Road Pictures [HD] _ Download... (1).jpg</filename>
+	<path>E:\images\car\500_ Car Road Pictures [HD] _ Download... (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4928</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2496</xmin>
+			<ymin>1083</ymin>
+			<xmax>4224</xmax>
+			<ymax>2290</ymax>
+		</bndbox>
+	</object>
+</annotation>
